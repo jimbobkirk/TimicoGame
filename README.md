@@ -39,7 +39,7 @@ To showcase your understanding and skills within C# a few requirements are set o
 
 Whilst the above is essential for a basic RPG game some ideal requirements are listed below:
 
-- It would be nice if my progressed was saved, so when I came back to the game my player was the same, including inventory, bank and progress.
+- It would be nice if my progress was saved, so when I came back to the game my player was the same, including inventory, bank and progress (if skills/stats are added).
 		- A big bonus would be to implement AWS (Amazon Web Services), a free trial can be made and many examples online. They offer a range of databases that would work for this simple project.
 - It would be nice if there was skills, leveling up in combat when attacking monsters.
 - It would be nice if I could have multiple accounts to enjoy the game in different ways, being able to choose which account to play when starting the program.

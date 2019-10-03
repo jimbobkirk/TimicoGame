@@ -3,3 +3,9 @@
 ################################################################################
 
 /TimicoGame/bin/Debug/netcoreapp2.1
+/TimicoGame/obj
+/TimicoGameLibrary/bin/Debug/netstandard2.0
+/TimicoGameLibrary/obj
+/ClassLibrary1/obj/Debug/netstandard2.0
+/ClassLibrary1/obj
+/.vs/TimicoGame

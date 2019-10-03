@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\TimicoGame.csproj" />
+    <ProjectReference Include="..\TimicoGameLibrary\TimicoGameLibrary.csproj" />
   </ItemGroup>
 
 </Project>

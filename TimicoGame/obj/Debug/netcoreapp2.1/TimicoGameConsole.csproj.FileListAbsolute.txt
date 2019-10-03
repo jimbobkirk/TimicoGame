@@ -1,0 +1,14 @@
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGameConsole.deps.json
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGameConsole.runtimeconfig.json
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGameConsole.runtimeconfig.dev.json
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGameConsole.dll
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGameConsole.pdb
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.csprojAssemblyReference.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.AssemblyInfoInputs.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.AssemblyInfo.cs
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.dll
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.pdb
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGame.dll
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\bin\Debug\netcoreapp2.1\TimicoGame.pdb
+C:\Users\Alex.Johnson\source\repos\TimicoGame\TimicoGame\obj\Debug\netcoreapp2.1\TimicoGameConsole.csproj.CopyComplete

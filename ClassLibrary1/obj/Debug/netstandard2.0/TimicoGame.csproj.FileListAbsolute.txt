@@ -1,0 +1,9 @@
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\bin\Debug\netstandard2.0\TimicoGame.deps.json
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\bin\Debug\netstandard2.0\TimicoGame.dll
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\bin\Debug\netstandard2.0\TimicoGame.pdb
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.csprojAssemblyReference.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.csproj.CoreCompileInputs.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.AssemblyInfoInputs.cache
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.AssemblyInfo.cs
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.dll
+C:\Users\Alex.Johnson\source\repos\TimicoGame\ClassLibrary1\obj\Debug\netstandard2.0\TimicoGame.pdb

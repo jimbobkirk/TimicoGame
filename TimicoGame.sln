@@ -5,7 +5,12 @@ VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimicoGameConsole", "TimicoGame\TimicoGameConsole.csproj", "{CD569CBB-7CE7-4159-9183-3FDE183E68D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimicoGameLibrary", "TimicoGameLibrary\TimicoGameLibrary.csproj", "{574C9FB8-276E-44FB-859D-15EA5DA8446A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimicoGameLibrary", "TimicoGameLibrary\TimicoGameLibrary.csproj", "{574C9FB8-276E-44FB-859D-15EA5DA8446A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimicoGameForm", "TimicoGameForm\TimicoGameForm.csproj", "{CFCD4F5B-8FED-4289-8405-54802D9906DF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{574C9FB8-276E-44FB-859D-15EA5DA8446A} = {574C9FB8-276E-44FB-859D-15EA5DA8446A}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +26,10 @@ Global
 		{574C9FB8-276E-44FB-859D-15EA5DA8446A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{574C9FB8-276E-44FB-859D-15EA5DA8446A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{574C9FB8-276E-44FB-859D-15EA5DA8446A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFCD4F5B-8FED-4289-8405-54802D9906DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFCD4F5B-8FED-4289-8405-54802D9906DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFCD4F5B-8FED-4289-8405-54802D9906DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFCD4F5B-8FED-4289-8405-54802D9906DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
